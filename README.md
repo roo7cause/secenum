@@ -1,7 +1,7 @@
 # SecEnum
-Created by: David "darkw1z" Kasabji
+Created by: David Netrunner
 
-Twitter: @darkw1z
+X: @roo7cause
 
 Date Created: 22.08.2018
 
