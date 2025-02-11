@@ -62,8 +62,8 @@ print("""
 
  ------------------- SecEnum version v1.0.0 -------------------
 
-Created by: David "darkw1z" Kasabji
-Twitter: @darkw1z
+Created by: David / Netrunner
+X: @roo7cause
 Date Created: 22.08.2018
 
 This is an OpenSource project for enumerating security and monitoring tools used on Windows machine.
